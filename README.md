@@ -33,9 +33,9 @@
 ## 📈 GitHub Stats 
 
 [![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=bathinamahesh&show_icons=true&theme=tokyonight&card_width=100%)](https://github.com/bathinamahesh)
-
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinamahesh&layout=compact)](https://github.com/bathinamahesh)
-
+## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bathinamahesh&theme=radical&border_radius=5.5&card_width=1000)](https://github.com/bathinamahesh)
 
 ## Github Trophy
