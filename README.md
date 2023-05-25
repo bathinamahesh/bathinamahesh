@@ -32,7 +32,7 @@
 
 ## 📈 GitHub Stats 
 
-[![Mahesh's github stats](https://github-readme-stats-brundabharadwaj.vercel.app/api?username=rickstaa)](https://github.com/bathinamahesh)
+[![Mahesh's github stats](https://github-readme-stats-brundabharadwaj.vercel.app/api?username=bathinamahesh&theme=radical)](https://github.com/bathinamahesh)
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinamahesh&show_icons=true&theme=tokyonight&card_width=100%)](https://github.com/bathinamahesh)
 ## GitHub Streak
