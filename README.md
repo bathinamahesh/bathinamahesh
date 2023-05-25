@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinamahesh&layout=compact)](https://github.com/bathinamahesh)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bathinamahesh&show_icons=true)](https://github.com/bathinamahesh)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bathinamahesh&theme=radical&border_radius=5.5&card_width=1000)](https://github.com/bathinamahesh)
 
 ## Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=bathinamahesh&theme=onedark)](https://github.com/bathinamahesh)
