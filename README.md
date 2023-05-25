@@ -32,8 +32,8 @@
 
 ## 📈 GitHub Stats 
 
-[![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=bathinamahesh)](https://github.com/bathinamahesh)
+[![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=bathinamahesh&show_icons=true)](https://github.com/bathinamahesh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinamahesh&layout=compact)](https://github.com/bathinamahesh)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bathinamahesh)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bathinamahesh&show_icons=true)](https://git.io/streak-stats)
