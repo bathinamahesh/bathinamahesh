@@ -41,4 +41,4 @@
 ## Github Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=bathinamahesh&theme=onedark)](https://github.com/bathinamahesh)
 
-[![Mahesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bathinamahesh)](https://github.com/bathinamahesh)
+
