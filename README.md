@@ -32,7 +32,7 @@
 
 ## 📈 GitHub Stats 
 
-[![Mahesh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinamahesh&show_icons=true&theme=tokyonight&card_width=100%)](https://github.com/bathinamahesh)
+[![Mahesh's github stats](https://github-readme-stats.vercel.app/api/github-stats/?username=bathinamahesh&show_icons=true&theme=tokyonight&card_width=100%)](https://github.com/bathinamahesh)
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinamahesh&show_icons=true&theme=tokyonight&card_width=100%)](https://github.com/bathinamahesh)
 ## GitHub Streak
