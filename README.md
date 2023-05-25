@@ -32,7 +32,7 @@
 
 ## 📈 GitHub Stats 
 
-[![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=bathinamahesh)](https://github.com/bathinamahesh)
+[![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=bathinamahesh)](https://github.com/bathinamahesh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinamahesh&layout=compact)](https://github.com/bathinamahesh)
 
