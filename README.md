@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning web development.
 - 💖 Love to build web apps and to code. 
 - 🥅 Contribute to more projects and learn something new everyday.
-- ⚡ Fun fact: Interested in Photography and play Piano.
+- ⚡ Fun fact: Interested in Chess and play Volleyball.
 
 <br>
 <br>
