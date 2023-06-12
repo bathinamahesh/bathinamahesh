@@ -19,7 +19,7 @@
     <a href="https://www.codechef.com/users/mahi_learner" target="blank"><img align="left" style="filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%);" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mahesh-bathina" height="30" width="40" /></a>
 </p>
 <br>
-
+<br>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
