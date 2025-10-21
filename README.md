@@ -1,48 +1,57 @@
 ### Hi there 👋 I am Mahesh Bathina
 
-## DevOps Engineer | Backend Developer (Golang, Django) | Python AI/ML Enthusiast
+## Software Engineer | Backend Developer (Golang) | DevOps & Cloud Specialist
 
-- 💼 Software Engineer with experience in cloud infrastructure automation and backend development
-- 🔭 Former Technical Intern at **Synopsys** - Built cloud infrastructure using Terraform, Docker, Kubernetes & Helm
-- 🚀 Specialized in **DevOps**, **Backend Development** (Golang, Django), and **CI/CD Automation**
-- 🤖 Passionate about **AI/ML** and **Data Science** - Built CNN-based Automated Attendance System with 95% accuracy
-- 🌱 Currently exploring advanced Kubernetes, System Design, and Machine Learning applications
-- 💻 Full-stack capabilities with React, Node.js, and modern web technologies
+- 💼 **Software Engineer 1 @ BlackDuck** - Building Cloud Native Coverity K8s-based products
+- 🚀 Backend Developer specializing in **Golang**, **Microservices Architecture**, and **Cloud-Native Solutions**
+- ☁️ **Microsoft Certified: DevOps Engineer Expert** & **Azure Administrator Associate**
+- 🔧 Expert in **Kubernetes** (GKE, AKS, EKS), **Docker**, **Terraform**, and **Multi-Cloud Deployments**
+- 🌱 Working on distributed systems, PostgreSQL optimization, and CI/CD automation
+- 🤖 Passionate about **AI/ML** - Built CNN-based Attendance System with 95% accuracy
 - 🎓 B.Tech in CSE from RGUKT Nuzvid (CGPA: 9.2)
-- 📜 Certified in Applied Data Science Capstone & Python Programming (Coursera)
 - ⚡ Fun fact: Chess enthusiast and Volleyball player
 
 <br>
 
 ### 🛠️ Professional Experience
 
+**Software Engineer 1 @ BlackDuck, Bangalore** *(June 2024 - Present)*
+
+Backend Developer specializing in Golang, working on Cloud Native Coverity K8s-based product with significant contributions to:
+
+**Scan Engine Microservice:**
+- Enabled parallel job execution on Kubernetes clusters for OnPrem deployments, improving resource utilization
+- Automated job lifecycle management with sidecar containers for SaaS platform, reducing manual intervention
+
+**Storage Service Microservice:**
+- Implemented multipart upload for large files across AWS S3, Azure Blob Storage, GCP Cloud Storage, and Minio
+- Achieved 1.5-2.8x faster uploads and reduced failures
+- Enhanced cleanup scripts to delete orphaned files from interrupted CLI scans
+- Integrated Azure Blob storage with custom domain support, workload identity authentication, and presigned URL generation
+
+**Other Key Contributions:**
+- Implemented PostgreSQL Read Replicas with PGPOOL load balancing across all K8s cluster types (AWS, Azure, GCP, Pure K8s, OpenShift)
+- Upgraded embedded PostgreSQL to version 16.x with static linking
+- Built CI/CD pipelines automating deployment with version control and containerization
+- Implemented distributed tracing for microservices APIs using OpenTelemetry
+- Managed IaC and container orchestration across multi-cloud environments with Helm chart maintenance
+- Migrated container images to private Google Artifact Registry with multi-architecture support (AMD64, ARM64)
+
 **Technical Intern @ Synopsys, Bangalore** *(July 2023 - June 2024)*
 - Created cloud infrastructure using Terraform scripts and automated software integration
-- Integrated PGPOOL middleware between application and database for performance optimization
-- Developed expertise in Docker, Kubernetes, Helm, GitLab Pipelines, and Golang
-- Automated Dev and Release Pipelines using GitLab CI/CD
-
-**Python Django Developer Intern @ Across The Globe, Bangalore** *(Apr 2023 - June 2023)*
-- Developed and maintained web applications using Django framework
-- Assisted in developing new features and functionality for production applications
+- Gained in-depth understanding of Docker, Kubernetes, Helm, GitLab Pipelines, and Golang
+- Automated Dev and Release Pipeline using GitLab CI/CD
+- Triaged and fixed issues across multiple pipelines
 
 <br>
 
 ### 🚀 Featured Projects
 
-**🎯 Automated Attendance System** - *Python, Deep Learning, Django*
-- CNN-based system reducing manual attendance time by 90%
-- Achieved 95% accuracy using TensorFlow and OpenCV
-- Single group photo marks attendance for entire class
-
-**🎵 Emotion Aware Music System** - *Django, Deep Learning, JavaScript*
-- ML-powered music recommendation based on facial emotion recognition
-- Real-time emotion classification using computer vision
-- Plays mood-appropriate songs to enhance user experience
-
-**💼 Personal Portfolio** - *HTML, CSS, JavaScript*
-- Responsive portfolio showcasing projects and technical skills
-- Modern design with smooth animations and user-friendly interface
+**🎯 Face Based Attendance System** - *Python, Deep Learning, Django*
+- CNN-based automated attendance system using facial recognition
+- Achieved 90% reduction in time spent on manual attendance with 95% accuracy
+- Built using Python, TensorFlow, and OpenCV for automatic attendance marking
+- [View Source Code](https://github.com/bathinamahesh)
 
 <br>
 
@@ -59,43 +68,47 @@
 <br>
 <br>
 
-### :hammer_and_wrench: Languages and Tools :
-<br>
+### :hammer_and_wrench: Technical Skills
 
-**Programming Languages:**
+**Languages:**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
-**DevOps & Cloud:**
+**Cloud & DevOps:**
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes (GKE, AKS, EKS)" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" title="Helm" alt="Helm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Microsoft Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab CI/CD" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
-**Backend & Frameworks:**
+**Frameworks & Backend:**
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-**Databases:**
+**Databases & Messaging:**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
+</div>
+
+**Monitoring & Observability:**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/open-telemetry/opentelemetry.io/main/iconography/32x32.png" title="OpenTelemetry" alt="OpenTelemetry" width="40" height="40"/>&nbsp;
 </div>
 
 **AI/ML & Data Science:**
@@ -106,40 +119,40 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
 </div>
 
-**Frontend & Web:**
+**Storage & Cloud Services:**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS S3" alt="S3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure Blob Storage" alt="Azure Blob" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_storage/google_storage-icon.svg" title="GCP Cloud Storage" alt="GCP Storage" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
 
-### 📚 Technical Skills
+### 💼 Core Competencies
 
-**Core Competencies:**
-- **DevOps:** Docker, Kubernetes, Helm, Terraform, GitLab CI/CD, Infrastructure as Code
-- **Backend Development:** Golang, Django, Node.js, Express, RESTful APIs
-- **AI/ML & Data Science:** TensorFlow, OpenCV, Deep Learning, CNN, Python Libraries
-- **Databases:** MySQL, MongoDB, Firebase, Database Design & Optimization
-- **Cloud & Infrastructure:** Cloud Infrastructure Automation, Middleware Integration (PGPOOL)
-- **System Design:** Microservices, Design Patterns, Scalable Architecture
+**Backend Development:** Golang Microservices • RESTful APIs • Distributed Systems • System Design
 
-**Relevant Coursework:**
-- Design and Analysis of Algorithms
-- Operating Systems
-- Database Management Systems
-- Software Engineering
-- System Design
+**DevOps & Cloud:** Kubernetes (GKE, AKS, EKS, OpenShift) • Docker • Terraform • Infrastructure as Code • Multi-Cloud Deployments
+
+**CI/CD:** GitLab CI/CD • Concourse • Pipeline Automation • Container Orchestration with Helm
+
+**Database Management:** PostgreSQL • Read Replicas • PGPOOL Load Balancing • Database Optimization
+
+**Monitoring & Observability:** Grafana • Loki • Prometheus • OpenTelemetry • Distributed Tracing
+
+**Cloud Technologies:** AWS • Azure • GCP • Multi-Architecture Support (AMD64, ARM64)
+
+**Programming Concepts:** OOP • Design Patterns • Data Structures & Algorithms • System Design
+
+**Areas of Interest:** DevOps • Backend Development • Microservices Architecture • Cloud-Native Applications
 
 <br>
 
 ### 🏆 Certifications
 
-- **Applied Data Science Capstone** - Coursera (Apr 2023)
-- **Programming for Everybody (Python)** - Coursera (Mar 2023)
-- **Google Analytics for Power Users** - Google (Feb 2023)
+- **[Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/MaheshBathina/)**
+- **[Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/MaheshBathina/)**
+- **[Applied Data Science Capstone - Coursera](https://www.coursera.org/account/accomplishments/certificate/)** (Apr 2023)
 
 <br>
 
@@ -149,20 +162,28 @@ Problem Solving • Self-Learning • Presentation • Adaptability • Team Col
 
 <br>
 
+### 🎯 Positions of Responsibility
+
+**Event Manager @ RGUKT, Nuzvid** *(Oct 2020 - June 2023)*
+- Organized and managed Technical Fests and Farewell events at RGUKT Nuzvid
+
+<br>
+
 ## 📈 GitHub Stats 
+
 ![bathinamahesh's Stats](https://github-readme-stats.vercel.app/api?username=bathinamahesh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinamahesh&show_icons=true&theme=tokyonight&layout=compact&card_width=445)](https://github.com/bathinamahesh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinamahesh&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/bathinamahesh)
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bathinamahesh&theme=radical&border_radius=5.5)](https://github.com/bathinamahesh)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=bathinamahesh&theme=onedark&row=2&column=3)](https://github.com/bathinamahesh)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bathinamahesh&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/bathinamahesh)
 
 ---
 
 <p align="center">
-  <i>⚡ "Building scalable systems, one commit at a time" ⚡</i>
+  <i>⚡ "Building scalable cloud-native systems with Golang, one microservice at a time" ⚡</i>
 </p>
