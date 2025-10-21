@@ -1,0 +1,72 @@
+Hello,
+
+I am Mahesh Bathina, a Software Engineer specializing in Backend Development, DevOps, and Cloud Infrastructure. I am interested in your project and confident I can deliver the results you need.
+
+TECHNICAL EXPERTISE:
+
+Backend Development & Programming:
+- Golang: Microservices architecture, RESTful APIs, distributed systems, concurrent programming
+- Python: Django framework, TensorFlow, OpenCV, automation scripts, data processing
+- Java: Spring Boot, enterprise application development
+- Databases: PostgreSQL (optimization, read replicas, PGPOOL), MongoDB, Firebase
+
+DevOps & Cloud Infrastructure:
+- Kubernetes: Production experience with GKE, AKS, EKS, and OpenShift clusters
+- CI/CD: GitLab CI/CD pipelines, Concourse, automated deployment workflows
+- Infrastructure as Code: Terraform, Helm charts, multi-cloud orchestration
+- Cloud Platforms: AWS (S3, EKS), Azure (Blob Storage, AKS, Functions), GCP (Cloud Storage, GKE, Artifact Registry)
+- Containerization: Docker, multi-architecture support (AMD64, ARM64)
+
+Monitoring & Observability:
+- Grafana, Loki, Prometheus, OpenTelemetry, distributed tracing implementation
+
+AI/ML & Data Science:
+- TensorFlow, Keras, OpenCV, Pandas, NumPy
+- Deep Learning (CNN), Computer Vision, Face Recognition systems
+
+PROFESSIONAL EXPERIENCE:
+
+Current Role - Software Engineer at BlackDuck:
+- Implemented multipart upload functionality across AWS S3, Azure Blob Storage, GCP Cloud Storage, and Minio, achieving 1.5-2.8x faster uploads and reduced failure rates
+- Built comprehensive GitLab CI/CD pipelines automating deployment across multi-cloud environments with version control, containerization, and notifications
+- Implemented PostgreSQL Read Replicas with PGPOOL load balancing across all Kubernetes cluster types (AWS, Azure, GCP, Pure K8s, OpenShift)
+- Enabled parallel job execution on Kubernetes clusters for OnPrem deployments, improving resource utilization
+- Integrated distributed tracing for microservices APIs using OpenTelemetry
+- Migrated container images to private Google Artifact Registry with multi-architecture support
+
+Previous Experience:
+- Technical Intern: Created cloud infrastructure using Terraform scripts, automated GitLab CI/CD pipelines, triaged and fixed pipeline issues
+- Python Django Developer Intern: Developed and maintained web applications using Django framework
+
+Key Projects:
+- CNN-based Face Recognition Attendance System using Python, TensorFlow, OpenCV, and Django - achieved 95% accuracy and reduced manual attendance time by 90%
+- Multi-cloud Infrastructure Management using Terraform and Helm across AWS, Azure, and GCP
+
+CERTIFICATIONS:
+- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure Administrator Associate  
+- Applied Data Science Capstone - Coursera
+- Programming for Everybody (Python) - Coursera
+
+MY APPROACH:
+1. Thoroughly review your requirements and existing tech stack
+2. Propose a clear implementation plan with defined milestones
+3. Deliver clean, well-documented, production-ready code
+4. Set up CI/CD pipelines for automated deployments
+5. Provide comprehensive documentation and smooth handover
+
+AVAILABILITY:
+I am based in IST timezone and can adjust my schedule to match your preferred working hours. I am available for communication via Slack, Discord, email, or scheduled calls. I prioritize regular updates and transparent communication throughout the project.
+
+I would appreciate the opportunity to discuss your project requirements in detail. Please let me know if you would prefer a call to discuss technical specifications or if you would like me to send a detailed implementation proposal.
+
+Thank you for your consideration.
+
+Best regards,
+Mahesh Bathina
+
+Contact Information:
+Email: bathinamahesh5399@gmail.com
+LinkedIn: linkedin.com/in/mahesh
+GitHub: github.com/bathinamahesh
+Phone: +91 9908117373
