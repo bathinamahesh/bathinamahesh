@@ -1,0 +1,28 @@
+MAHESH BATHINA
++91 9908117373 | bathinamahesh5399@gmail.com
+linkedin.com/in/mahesh | github.com/bathinamahesh
+
+[Date]
+
+Hiring Manager
+[Company Name]
+[Company Address]
+
+Dear Hiring Manager,
+
+I am thrilled to apply for the Python Developer position at [Company Name]. With expertise in Python development, machine learning applications, and backend frameworks including Django, I am confident in my ability to deliver high-quality solutions for your engineering team.
+
+My Python expertise is demonstrated through both professional experience and impactful projects. I developed a CNN-based Face Recognition Attendance System using Python, TensorFlow, and OpenCV that achieved 95% accuracy and reduced manual attendance recording time by 90%. This project showcased my ability to implement deep learning solutions, work with computer vision libraries, and build complete web applications using Django framework with HTML, CSS, and Bootstrap for the frontend.
+
+In my current role as Software Engineer at BlackDuck, while I primarily work with Golang for microservices, I regularly use Python for automation scripts, data processing, and infrastructure tasks. I have hands-on experience with popular Python libraries and tools for various purposes including system scripting, API development, and data manipulation. My work with Shell scripting and automation has strengthened my ability to write efficient, maintainable Python code for DevOps and infrastructure tasks.
+
+I hold a Certificate of Completion for Applied Data Science Capstone from Coursera, which further validates my Python skills in data science and machine learning contexts. My strong foundation in programming concepts including OOPS, design patterns, and data structures enables me to write clean, scalable Python code following best practices.
+
+Additionally, my experience with CI/CD pipelines, Docker, and Kubernetes provides me with a comprehensive understanding of the full software development lifecycle, allowing me to build Python applications that are production-ready and easily deployable. I am comfortable working with databases like PostgreSQL and implementing RESTful APIs using Django and other Python frameworks.
+
+I am particularly interested in [Company Name]'s work with [mention specific Python project/technology/domain], and I am eager to contribute my Python development skills and passion for clean, efficient code to your team.
+
+Thank you for considering my application. I would be delighted to discuss how my Python expertise and proven track record can support [Company Name]'s development goals. Please feel free to contact me to schedule an interview.
+
+Best regards,
+Mahesh Bathina

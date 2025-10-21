@@ -1,0 +1,28 @@
+MAHESH BATHINA
++91 9908117373 | bathinamahesh5399@gmail.com
+linkedin.com/in/mahesh | github.com/bathinamahesh
+
+[Date]
+
+Hiring Manager
+[Company Name]
+[Company Address]
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Cloud Engineer position at [Company Name]. As a Microsoft Certified Azure Administrator Associate and DevOps Engineer Expert with hands-on experience across AWS, Azure, and GCP, I bring comprehensive multi-cloud expertise to your engineering team.
+
+In my current role at BlackDuck, I have successfully implemented cloud solutions across multiple platforms. My most notable achievement includes integrating Azure Blob storage with custom domain support, workload identity authentication, and presigned URL generation, while also implementing multipart upload functionality across AWS S3, Azure Blob Storage, GCP Cloud Storage, and Minio—achieving 1.5-2.8x faster uploads and reducing failures across all platforms.
+
+My multi-cloud experience extends to Kubernetes orchestration across GKE (Google), AKS (Azure), and EKS (AWS), as well as Pure Kubernetes and OpenShift deployments. I have managed Infrastructure as Code (IaC) using Terraform and maintained Helm charts for container orchestration across these diverse environments. I successfully implemented PostgreSQL Read Replicas with PGPOOL load balancing across all cluster types and migrated container images to private Google Artifact Registry with multi-architecture support (AMD64, ARM64).
+
+During my internship at Synopsys, I created cloud infrastructure using Terraform scripts and automated software integration, gaining in-depth understanding of infrastructure automation best practices. I have built CI/CD pipelines that automate deployment across multi-cloud environments with version control, containerization, and notifications, ensuring consistent and reliable deployments.
+
+My technical skill set includes proficiency with cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, and comprehensive monitoring solutions including Grafana, Loki, Prometheus, and OpenTelemetry. I have implemented distributed tracing for microservices APIs to enable performance monitoring across cloud platforms, and I am experienced with cloud messaging systems like Kafka.
+
+I am particularly drawn to [Company Name]'s approach to [mention specific cloud strategy/multi-cloud implementation/technology], and I am confident that my proven experience in building and managing multi-cloud infrastructures can contribute significantly to your cloud initiatives.
+
+Thank you for your consideration. I look forward to the opportunity to discuss how my multi-cloud expertise and Microsoft certifications can help [Company Name] achieve its cloud infrastructure goals. I am available for an interview at your earliest convenience.
+
+Sincerely,
+Mahesh Bathina

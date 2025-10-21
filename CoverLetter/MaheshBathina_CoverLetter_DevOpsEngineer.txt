@@ -1,0 +1,28 @@
+MAHESH BATHINA
++91 9908117373 | bathinamahesh5399@gmail.com
+linkedin.com/in/mahesh | github.com/bathinamahesh
+
+[Date]
+
+Hiring Manager
+[Company Name]
+[Company Address]
+
+Dear Hiring Manager,
+
+I am excited to apply for the DevOps Engineer position at [Company Name]. As a Microsoft Certified DevOps Engineer Expert with proven experience in cloud infrastructure automation and Kubernetes orchestration, I am eager to bring my expertise to your innovative engineering team.
+
+Currently serving as a Software Engineer at BlackDuck, I have successfully managed Infrastructure as Code (IaC) and container orchestration across multi-cloud environments including AWS, Azure, and GCP. I built comprehensive CI/CD pipelines using GitLab CI/CD and Concourse that automate deployment with version control, containerization, and notifications, significantly streamlining our release processes. My work includes migrating container images to private Google Artifact Registry with multi-architecture support (AMD64, ARM64), ensuring seamless deployments across diverse environments.
+
+My proficiency in Kubernetes is demonstrated through hands-on experience with GKE, AKS, EKS, and OpenShift clusters. I enabled parallel job execution on Kubernetes clusters for OnPrem deployments and implemented PostgreSQL Read Replicas with PGPOOL load balancing across all cluster types. Additionally, I have extensive experience with Terraform for infrastructure automation and Helm for maintaining complex chart configurations across multiple microservices.
+
+During my internship at Synopsys, I gained in-depth understanding of cloud infrastructure creation using Terraform scripts and automated software integration. I was involved in triaging and fixing pipeline issues, which strengthened my troubleshooting skills and deepened my understanding of CI/CD best practices.
+
+I hold both Microsoft Certified: DevOps Engineer Expert and Azure Administrator Associate certifications, validating my technical expertise in cloud operations and DevOps methodologies. My experience with monitoring and observability tools including Grafana, Loki, Prometheus, and OpenTelemetry enables me to implement comprehensive monitoring solutions for production systems.
+
+I am particularly impressed by [Company Name]'s [mention specific infrastructure/technology/approach], and I am confident that my experience in building scalable, automated infrastructure can contribute to your team's objectives.
+
+Thank you for considering my application. I look forward to discussing how my DevOps expertise can support [Company Name]'s infrastructure goals. Please feel free to contact me at your convenience to schedule an interview.
+
+Best regards,
+Mahesh Bathina

@@ -1,0 +1,26 @@
+MAHESH BATHINA
++91 9908117373 | bathinamahesh5399@gmail.com
+linkedin.com/in/mahesh | github.com/bathinamahesh
+
+[Date]
+
+Hiring Manager
+[Company Name]
+[Company Address]
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Backend Developer position at [Company Name]. As a Software Engineer at BlackDuck with extensive experience in Golang microservices and cloud-native architectures, I am excited about the opportunity to contribute to your engineering team's success.
+
+In my current role at BlackDuck, I specialize in developing high-performance backend systems using Golang for our Cloud Native Coverity K8s-based product. One of my key achievements includes implementing multipart upload functionality across multiple storage backends (AWS S3, Azure Blob Storage, GCP Cloud Storage, and Minio), which resulted in 1.5-2.8x faster uploads and significantly reduced failure rates. I also enabled parallel job execution on Kubernetes clusters for OnPrem deployments, optimizing resource utilization while maintaining performance standards.
+
+My expertise extends to database optimization and distributed systems. I successfully implemented PostgreSQL Read Replicas with PGPOOL load balancing across all Kubernetes cluster types (AWS, Azure, GCP, Pure K8s, OpenShift), and integrated distributed tracing for microservices APIs using OpenTelemetry to enhance performance monitoring and debugging capabilities. Additionally, I automated job lifecycle management with sidecar containers for our SaaS platform, which reduced manual intervention and improved job completion rates.
+
+With Microsoft certifications in DevOps Engineer Expert and Azure Administrator Associate, along with hands-on experience in building CI/CD pipelines and managing multi-cloud infrastructure, I bring a comprehensive understanding of modern backend development practices. My strong foundation in OOPS concepts, design patterns, and system design enables me to architect scalable and maintainable solutions.
+
+I am particularly drawn to [Company Name]'s commitment to [mention specific company value/technology/product]. I am confident that my proven track record in Golang development, microservices architecture, and cloud-native technologies aligns perfectly with your team's requirements.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my experience in building robust backend systems can contribute to [Company Name]'s continued innovation. I am available for an interview at your earliest convenience.
+
+Sincerely,
+Mahesh Bathina

@@ -1,0 +1,28 @@
+MAHESH BATHINA
++91 9908117373 | bathinamahesh5399@gmail.com
+linkedin.com/in/mahesh | github.com/bathinamahesh
+
+[Date]
+
+Hiring Manager
+[Company Name]
+[Company Address]
+
+Dear Hiring Manager,
+
+I am writing to apply for the Software Engineer position at [Company Name]. With a strong foundation in backend development, cloud-native technologies, and system design, combined with a Bachelor of Technology in Computer Science (CGPA: 9.2) from RGUKT Nuzvid, I am well-prepared to contribute to your engineering team's success.
+
+As a Software Engineer at BlackDuck, I have made significant contributions to our Cloud Native Coverity K8s-based product, working primarily with Golang microservices. My achievements include implementing multipart upload functionality that achieved 1.5-2.8x faster uploads across multiple cloud storage platforms and automating job lifecycle management with sidecar containers, which reduced manual intervention and improved system reliability.
+
+My technical expertise spans multiple domains: I have upgraded embedded PostgreSQL to version 16.x with static linking, implemented distributed tracing for microservices APIs using OpenTelemetry, and managed multi-cloud deployments across AWS, Azure, and GCP. I am proficient in multiple programming languages including Golang, Python, Java, and C++, with strong understanding of OOPS concepts, design patterns, and system design principles.
+
+Beyond backend development, I have demonstrated versatility through projects like building a CNN-based Face Recognition Attendance System using Python, TensorFlow, and OpenCV, which achieved 95% accuracy and reduced manual attendance time by 90%. This project showcases my ability to work across different technology stacks and apply machine learning concepts to solve real-world problems.
+
+I hold Microsoft certifications in DevOps Engineer Expert and Azure Administrator Associate, and I have hands-on experience with container orchestration (Kubernetes, Docker, Helm), CI/CD pipelines (GitLab CI/CD, Concourse), and infrastructure automation (Terraform). My soft skills in problem-solving, self-learning, and adaptability enable me to quickly contribute to new projects and collaborate effectively with cross-functional teams.
+
+I am particularly excited about [Company Name]'s work in [mention specific product/technology/domain], and I believe my diverse skill set and passion for building scalable systems align well with your team's goals.
+
+Thank you for your time and consideration. I would welcome the opportunity to discuss how my technical background and enthusiasm for software engineering can benefit [Company Name]. I am available for an interview at your convenience.
+
+Sincerely,
+Mahesh Bathina
