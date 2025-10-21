@@ -50,8 +50,7 @@
 </div>
 
 ## 📈 GitHub Stats 
-
-[![Mahesh's github stats](https://github-readme-stats-brundabharadwaj.vercel.app/api?username=bathinamahesh&theme=radical)](https://github.com/bathinamahesh)
+![bathinamahesh's Stats](https://github-readme-stats.vercel.app/api?username=bathinamahesh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathinamahesh&show_icons=true&theme=tokyonight&card_width=100%)](https://github.com/bathinamahesh)
 ## GitHub Streak
