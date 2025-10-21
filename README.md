@@ -13,23 +13,24 @@
 
 <br>
 
-### 🛠️ Professional Experience
+## 💼 Professional Experience
 
-**Software Engineer 1 @ BlackDuck, Bangalore** *(June 2024 - Present)*
+### 🔹 Software Engineer 1 | BlackDuck, Bangalore
+**June 2024 - Present**
 
-Backend Developer specializing in Golang, working on Cloud Native Coverity K8s-based product with significant contributions to:
+Backend Developer specializing in Golang, working on Cloud Native Coverity K8s-based product.
 
-**Scan Engine Microservice:**
+#### 🎯 Scan Engine Microservice
 - Enabled parallel job execution on Kubernetes clusters for OnPrem deployments, improving resource utilization
 - Automated job lifecycle management with sidecar containers for SaaS platform, reducing manual intervention
 
-**Storage Service Microservice:**
+#### 🎯 Storage Service Microservice
 - Implemented multipart upload for large files across AWS S3, Azure Blob Storage, GCP Cloud Storage, and Minio
 - Achieved 1.5-2.8x faster uploads and reduced failures
 - Enhanced cleanup scripts to delete orphaned files from interrupted CLI scans
 - Integrated Azure Blob storage with custom domain support, workload identity authentication, and presigned URL generation
 
-**Other Key Contributions:**
+#### 🎯 Infrastructure & Platform Contributions
 - Implemented PostgreSQL Read Replicas with PGPOOL load balancing across all K8s cluster types (AWS, Azure, GCP, Pure K8s, OpenShift)
 - Upgraded embedded PostgreSQL to version 16.x with static linking
 - Built CI/CD pipelines automating deployment with version control and containerization
@@ -37,7 +38,11 @@ Backend Developer specializing in Golang, working on Cloud Native Coverity K8s-b
 - Managed IaC and container orchestration across multi-cloud environments with Helm chart maintenance
 - Migrated container images to private Google Artifact Registry with multi-architecture support (AMD64, ARM64)
 
-**Technical Intern @ Synopsys, Bangalore** *(July 2023 - June 2024)*
+<br>
+
+### 🔹 Technical Intern | Synopsys, Bangalore
+**July 2023 - June 2024**
+
 - Created cloud infrastructure using Terraform scripts and automated software integration
 - Gained in-depth understanding of Docker, Kubernetes, Helm, GitLab Pipelines, and Golang
 - Automated Dev and Release Pipeline using GitLab CI/CD
@@ -45,17 +50,18 @@ Backend Developer specializing in Golang, working on Cloud Native Coverity K8s-b
 
 <br>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-**🎯 Face Based Attendance System** - *Python, Deep Learning, Django*
+#### 🎯 Face Based Attendance System
+**Tech Stack:** Python, Deep Learning, TensorFlow, OpenCV, Django, HTML, CSS, Bootstrap
+
 - CNN-based automated attendance system using facial recognition
 - Achieved 90% reduction in time spent on manual attendance with 95% accuracy
-- Built using Python, TensorFlow, and OpenCV for automatic attendance marking
-- [View Source Code](https://github.com/bathinamahesh)
+- Built using Python, TensorFlow, and OpenCV for automatic attendance marking from single class photo
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahesh-bathina/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahesh Bathina" height="30" width="40" /></a>
 <a href="https://github.com/bathinamahesh" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mahesh-bathina" height="30" width="40" /></a>  
@@ -68,9 +74,9 @@ Backend Developer specializing in Golang, working on Cloud Native Coverity K8s-b
 <br>
 <br>
 
-### :hammer_and_wrench: Technical Skills
+## 🛠️ Technical Skills
 
-**Languages:**
+### 💻 Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -79,7 +85,7 @@ Backend Developer specializing in Golang, working on Cloud Native Coverity K8s-b
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
-**Cloud & DevOps:**
+### ☁️ Cloud & DevOps
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes (GKE, AKS, EKS)" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -92,26 +98,25 @@ Backend Developer specializing in Golang, working on Cloud Native Coverity K8s-b
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-**Frameworks & Backend:**
+### 🔧 Frameworks & Backend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 </div>
 
-**Databases & Messaging:**
+### 🗄️ Databases & Messaging
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
 </div>
 
-**Monitoring & Observability:**
+### 📊 Monitoring & Observability
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/open-telemetry/opentelemetry.io/main/iconography/32x32.png" title="OpenTelemetry" alt="OpenTelemetry" width="40" height="40"/>&nbsp;
 </div>
 
-**AI/ML & Data Science:**
+### 🤖 AI/ML & Data Science
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
@@ -119,18 +124,11 @@ Backend Developer specializing in Golang, working on Cloud Native Coverity K8s-b
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
 </div>
 
-**Storage & Cloud Services:**
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS S3" alt="S3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure Blob Storage" alt="Azure Blob" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_storage/google_storage-icon.svg" title="GCP Cloud Storage" alt="GCP Storage" width="40" height="40"/>&nbsp;
-</div>
-
 <br>
 
-### 💼 Core Competencies
+## 🎯 Core Competencies
 
-**Backend Development:** Golang Microservices • RESTful APIs • Distributed Systems • System Design
+**Backend Development:** Golang Microservices • RESTful APIs • Distributed Systems • System Design • Design Patterns
 
 **DevOps & Cloud:** Kubernetes (GKE, AKS, EKS, OpenShift) • Docker • Terraform • Infrastructure as Code • Multi-Cloud Deployments
 
@@ -140,32 +138,21 @@ Backend Developer specializing in Golang, working on Cloud Native Coverity K8s-b
 
 **Monitoring & Observability:** Grafana • Loki • Prometheus • OpenTelemetry • Distributed Tracing
 
-**Cloud Technologies:** AWS • Azure • GCP • Multi-Architecture Support (AMD64, ARM64)
+**Cloud Storage:** AWS S3 • Azure Blob Storage • GCP Cloud Storage • Minio
 
 **Programming Concepts:** OOP • Design Patterns • Data Structures & Algorithms • System Design
 
 **Areas of Interest:** DevOps • Backend Development • Microservices Architecture • Cloud-Native Applications
 
-<br>
-
-### 🏆 Certifications
-
-- **[Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/MaheshBathina/)**
-- **[Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/MaheshBathina/)**
-- **[Applied Data Science Capstone - Coursera](https://www.coursera.org/account/accomplishments/certificate/)** (Apr 2023)
+**Soft Skills:** Problem Solving • Self-Learning • Presentation • Adaptability
 
 <br>
 
-### 💪 Soft Skills
+## 🏆 Certifications
 
-Problem Solving • Self-Learning • Presentation • Adaptability • Team Collaboration
-
-<br>
-
-### 🎯 Positions of Responsibility
-
-**Event Manager @ RGUKT, Nuzvid** *(Oct 2020 - June 2023)*
-- Organized and managed Technical Fests and Farewell events at RGUKT Nuzvid
+- **[Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/certifications/)**
+- **[Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/certifications/)**
+- **Applied Data Science Capstone** - Coursera (Apr 2023)
 
 <br>
 
