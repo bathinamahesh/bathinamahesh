@@ -8,4 +8,4 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - .
+  - preparation
