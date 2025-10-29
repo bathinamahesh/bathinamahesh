@@ -15,10 +15,4 @@ This page serves as a quick portal to all my learning & job-prep materials.
 - [Career Docs](./Career/README.md)
 
 ---
-
-🧾 **Bonus:**  
-- Resume → [`Career/Resume`](./Career/Resume)  
-- Cover Letters → [`Career/CoverLetters`](./Career/CoverLetters)
-
----
 _Hosted via GitHub Pages_
