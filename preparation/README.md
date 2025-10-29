@@ -19,26 +19,20 @@ This page serves as a quick portal to all my learning & job-prep materials.
 ### 🌐 Portfolio & Website Repositories
 
 #### 💼 Primary Portfolio (Live)
-
-| Description | Repository | URL |
-|--------------|-------------|-----|
-| Main personal portfolio (custom domain) | [`folio-v2`](https://github.com/bathinamahesh/folio-v2) | [https://maheshbathina.info](https://maheshbathina.info) |
-
-Hosted at → 🌍 [maheshbathina.info](https://maheshbathina.info)  
-Source → 📦 [`folio-v2`](https://github.com/bathinamahesh/folio-v2)
+- **Purpose:** Main personal portfolio (custom domain)
+- **Repository:** [`folio-v2`](https://github.com/bathinamahesh/folio-v2)
+- **Hosted at:** 🌍 [https://maheshbathina.info](https://maheshbathina.info)
+- **Source:** 📦 [`github.com/bathinamahesh/folio-v2`](https://github.com/bathinamahesh/folio-v2)
 
 ---
 
 #### 🧩 Development & GitHub Pages Workflow
-
-| Description | Repository | URL |
-|--------------|-------------|-----|
-| Active development source | [`mahesh-dev-portfolio`](https://github.com/bathinamahesh/mahesh-dev-portfolio) | Builds → [`bathinamahesh.github.io`](https://github.com/bathinamahesh/bathinamahesh.github.io) |
-| GitHub Pages deployment | [`bathinamahesh.github.io`](https://github.com/bathinamahesh/bathinamahesh.github.io) | [https://bathinamahesh.github.io](https://bathinamahesh.github.io) |
-
-Hosted at → 🌍 [bathinamahesh.github.io](https://bathinamahesh.github.io)  
-Source → 📦 [`mahesh-dev-portfolio`](https://github.com/bathinamahesh/mahesh-dev-portfolio)  
-Push to → ➡️ [`bathinamahesh.github.io`](https://github.com/bathinamahesh/bathinamahesh.github.io)
+- **Purpose:** Active development source and GitHub Pages build chain
+- **Source Repo:** [`mahesh-dev-portfolio`](https://github.com/bathinamahesh/mahesh-dev-portfolio)
+- **Deployment Repo:** [`bathinamahesh.github.io`](https://github.com/bathinamahesh/bathinamahesh.github.io)
+- **Live Site:** 🌍 [https://bathinamahesh.github.io](https://bathinamahesh.github.io)
+- **Build Flow:**  
+  `mahesh-dev-portfolio` → (build) → `bathinamahesh.github.io` → Live
 
 ---
 
