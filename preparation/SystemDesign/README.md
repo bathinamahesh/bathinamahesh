@@ -37,10 +37,159 @@
 
 ---
 
-💡 *Tip:*  
+## 🧭 System Design Roadmap
+
+### 🧱 Overview
+
+| **System Design** |   |   |
+|--------------------|---|---|
+| **HLD** | **LLD** |
+| Database | Design API |
+| Message Queue | Class Diagram |
+| Cache | Models |
+
+---
+
+### 🔹 High Level Design (HLD)
+
+#### **Functional Requirements**
+- Users can signup & login  
+- Users can buy a subscription  
+- User can play/pause a video  
+
+#### **Non-Functional Requirements**
+- Secure system with authentication/authorization  
+- Low latency for videos  
+- Scalable system  
+
+---
+
+#### **Step 1: Fundamentals**
+- Serverless vs Serverful  
+- Horizontal vs Vertical Scaling  
+- What are threads?  
+- What are pages?  
+- How does the internet work?  
+
+#### **Step 2: Databases**
+- SQL vs NoSQL DBs  
+- In-memory DBs  
+- Data Replication & Migration  
+- Data Partitioning  
+- Sharding  
+
+#### **Step 3: Consistency vs Availability**
+- Data Consistency & its levels  
+- Isolation & its levels  
+- CAP Theorem  
+
+#### **Step 4: Cache**
+- What is Cache? (Redis, Memcached)  
+- Write Policies: write back, through & around  
+- Replacement Policies: LFU, LRU, Segmented LRU etc.  
+- Content Delivery Networks (CDNs)  
+
+#### **Step 5: Networking**
+- TCP vs UDP  
+- What is HTTP (1/2/3) & HTTPS  
+- WebSockets  
+- WebRTC & video streaming  
+
+#### **Step 6: Load Balancers**
+- Load Balancing Algorithms (Stateless & Stateful)  
+- Consistent Hashing  
+- Proxy & Reverse Proxy  
+- Rate Limiting  
+
+#### **Step 7: Message Queues**
+- Asynchronous Processing (Kafka, RabbitMQ)  
+- Publisher-Subscriber Model  
+
+#### **Step 8: Monoliths vs Microservices**
+- Why Microservices?  
+- Concept of 'Single Point of Failure'  
+- Avoiding Cascading Failures  
+- Containerization (Docker)  
+- Migrating to Microservices  
+
+#### **Step 9: Monitoring & Logging**
+- Logging events & monitoring metrics  
+- Anomaly Detection  
+
+#### **Step 10: Security**
+- Tokens for auth  
+- SSO & OAuth  
+- Access Control Lists & Rule Engines  
+- Encryption  
+
+#### **Step 11: System Design Tradeoffs**
+- Push vs Pull architecture  
+- Consistency vs Availability  
+- SQL vs NoSQL DBs  
+- Memory vs Latency  
+- Throughput vs Latency  
+- Accuracy vs Latency  
+
+#### **Step 12: Practice, Practice, Practice**
+1. YouTube  
+2. Twitter  
+3. WhatsApp  
+4. Uber  
+5. Amazon  
+6. Dropbox / Google Drive  
+7. Netflix  
+8. Instagram  
+9. Zoom  
+10. Booking.com / Airbnb  
+
+---
+
+### 🔹 Low Level Design (LLD)
+
+#### **Step 1: Object Oriented Programming**
+- Encapsulation  
+- Abstraction  
+- Inheritance  
+- Polymorphism  
+- SOLID Principles  
+
+#### **Step 2: Design Patterns**
+- Creational (Singleton, Factory etc.)  
+- Structural (Proxy, Bridge etc.)  
+- Behavioral (Strategy, Command, Observer etc.)  
+
+#### **Step 3: Concurrency & Thread Safety**
+- Thread safe injection  
+- Locking mechanisms  
+- Producer-Consumer  
+- Race conditions & synchronization  
+
+#### **Step 4: UML Diagrams**
+
+#### **Step 5: APIs**
+- API Design  
+- Request/Response Object Modeling  
+- Versioning & Extensibility  
+- Clean Code Principles: DRY, SRP etc.  
+- Avoiding God Classes  
+
+#### **Step 6: Common LLD Problems**
+1. Design a Tic-tac-toe or Chess Game  
+2. Design a Splitwise App  
+3. Design a Parking Lot  
+4. Design an Elevator System with Multiple Lifts  
+5. Design a Notification System  
+6. Design a Food Delivery App  
+7. Design a Movie Ticket Booking System  
+8. Design a URL Shortener  
+9. Design a Logging Framework  
+10. Design a Rate Limiter  
+
+---
+
+💡 **Tip:**  
 Follow this order for learning:
 1. **Low Level Design (Shrayansh)** → solidify fundamentals.  
 2. **High Level Design (Shrayansh)** → learn scalability and components.  
 3. **Gaurav Sen & Code Karle** → dive into real-world systems.  
 4. **ByteByteGo** → reinforce concepts with visual summaries.
-
