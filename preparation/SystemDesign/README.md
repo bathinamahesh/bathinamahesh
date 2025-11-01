@@ -9,6 +9,8 @@
 ### 🎯 Low Level Design (LLD)
 - **Playlist:** [Low Level Design from Basics to Advanced](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)  
 - **Overview:** Covers core OOP concepts, design patterns, and class design for interview-oriented system design questions.
+- [Gitlab - Low Level Design](https://gitlab.com/shrayansh8/lld-lowleveldesign/-/tree/main/src/main/java/com/conceptcoding?ref_type=heads)
+- [Gitlab - Low Level Design Interview](https://gitlab.com/shrayansh8/interviewcodingpractise/-/tree/main/src/main/java/com/conceptandcoding/LowLevelDesign?ref_type=heads)
 
 ### 🧠 High Level Design (HLD)
 - **Playlist:** [High Level Design from Basics to Advanced](https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7)  
